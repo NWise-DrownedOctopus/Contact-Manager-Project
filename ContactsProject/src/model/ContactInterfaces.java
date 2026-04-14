@@ -1,3 +1,5 @@
+package model;
+
 // For contacts with a valid birthday
 interface Birthdatable {
     public String getBirthday();

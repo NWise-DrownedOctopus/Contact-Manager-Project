@@ -1,4 +1,6 @@
-abstract class Contact {
+package model;
+
+public abstract class Contact {
     private String name;
     private int id;
     private String primaryEmail;

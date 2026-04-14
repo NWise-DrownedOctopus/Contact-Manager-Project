@@ -1,5 +1,8 @@
 import javax.swing.JOptionPane;
 
+import model.Contact;
+import model.ContactManager;
+
 public class App {
 
     public static void main(String[] args) {
